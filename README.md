@@ -6,4 +6,4 @@ If you find bugs or have feature requests, please see the [issues](https://githu
 
 If you'd like to open a discussion about the app, cloud or any other related topic, please see [discussions](https://github.com/libra-app/project/discussions).
 
-> Be aware that everything posted here will be publically available on the internet.
+> Be aware that everything posted here will be publicly available on the internet.
